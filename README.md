@@ -1,7 +1,4 @@
 # Edge Cases in Scoring — Missing and Partial Signals
-
-# Project Overview
-
 This project implements a **Risk Scoring Engine** that calculates a final score using three input signals:
 
 * Audio Score
